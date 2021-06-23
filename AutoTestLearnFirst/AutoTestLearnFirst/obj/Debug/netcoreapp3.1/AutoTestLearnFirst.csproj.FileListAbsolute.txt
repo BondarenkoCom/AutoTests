@@ -1,0 +1,13 @@
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\bin\Debug\netcoreapp3.1\AutoTestLearnFirst.exe
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\bin\Debug\netcoreapp3.1\AutoTestLearnFirst.deps.json
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\bin\Debug\netcoreapp3.1\AutoTestLearnFirst.runtimeconfig.json
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\bin\Debug\netcoreapp3.1\AutoTestLearnFirst.runtimeconfig.dev.json
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\bin\Debug\netcoreapp3.1\AutoTestLearnFirst.dll
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\bin\Debug\netcoreapp3.1\AutoTestLearnFirst.pdb
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\obj\Debug\netcoreapp3.1\AutoTestLearnFirst.csprojAssemblyReference.cache
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\obj\Debug\netcoreapp3.1\AutoTestLearnFirst.AssemblyInfoInputs.cache
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\obj\Debug\netcoreapp3.1\AutoTestLearnFirst.AssemblyInfo.cs
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\obj\Debug\netcoreapp3.1\AutoTestLearnFirst.csproj.CoreCompileInputs.cache
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\obj\Debug\netcoreapp3.1\AutoTestLearnFirst.dll
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\obj\Debug\netcoreapp3.1\AutoTestLearnFirst.pdb
+C:\Users\ABondarenko\sourceMy\AutoTestLearnFirst\AutoTestLearnFirst\obj\Debug\netcoreapp3.1\AutoTestLearnFirst.genruntimeconfig.cache
